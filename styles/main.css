@@ -29,9 +29,15 @@ body {
     background-color: #faa7c9;
 }
 .ordered_list {
-    margin: 0 auto; 
+    text-align: center;
     color:black;
     font-family: "Arial", Arial, sans-serif;
+    line-height: 200%;
+    font-weight: bold;
+}
+ol {
+    display:inline-block;
+    text-align: left;
 }
 h5{
     text-align: center;
